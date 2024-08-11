@@ -1,8 +1,8 @@
-import NavBar from "./components/NavBar";
+import signin from "./signin";
 import Image from "next/image";
 
 export default function Home() {
   return (
-    <NavBar />
+    <signin />
   );
 }
